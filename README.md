@@ -1,7 +1,7 @@
 # Daily Journal Blog
 The Daily Journal Blog is a **simple blogging platform** where users (typically the site owner/admin) can create, view, and read blog posts. It serves as a personal or public journal where entries are displayed with their titles and full content.
 
-# Features:
+## Features:
 📝 Compose New Posts: Add new blog entries with a title and content.
 
 📃 Homepage Display: Shows a list of blog posts (titles and excerpts).
@@ -12,7 +12,7 @@ The Daily Journal Blog is a **simple blogging platform** where users (typically 
 
 🧠 Content Management: Automatically saves posts in memory or a database.
 
-#  Technical Overview: (Behind the Scenes)
+##  Technical Overview: (Behind the Scenes)
 
 Frontend: Built with EJS templating, HTML, CSS.
 
@@ -22,17 +22,17 @@ Routing: Uses Express routes for dynamic content.
 
 Database: Uses MongoDB.
 
-# Preview:
+## Preview:
 https://daily-journal-blog.onrender.com/
 
-# Contact:
+## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
 Developer: Fatimah Ali
 Website: fatimahdigitaledge.com
 GitHub: github.com/fati-810
 
-# License:
+## License:
 This project is for educational and portfolio purposes.
 
 
