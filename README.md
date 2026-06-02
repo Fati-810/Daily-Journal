@@ -14,13 +14,13 @@ The Daily Journal Blog is a **simple blogging platform** where users (typically 
 
 ##  Technical Overview: (Behind the Scenes)
 
-Frontend: Built with EJS templating, HTML, CSS.
+**Frontend:** Built with EJS templating, HTML, CSS.
 
-Backend: Powered by Node.js and Express.
+**Backend:** Powered by Node.js and Express.
 
-Routing: Uses Express routes for dynamic content.
+**Routing:** Uses Express routes for dynamic content.
 
-Database: Uses MongoDB.
+**Database:** Uses MongoDB.
 
 ## Preview:
 https://daily-journal-blog.onrender.com/
@@ -28,9 +28,9 @@ https://daily-journal-blog.onrender.com/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+**Developer:** *Fatimah Ali*  
+**Website:** fatimahdigitaledge.com  
+**GitHub:** github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
