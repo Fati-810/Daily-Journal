@@ -23,7 +23,7 @@ The Daily Journal Blog is a **simple blogging platform** where users (typically 
 **Database:** Uses MongoDB.
 
 ## Preview:
-https://daily-journal-blog.onrender.com/
+https://fatimahdigitaledge.com/portfolio-item/daily-journal-blog/#inside-the-application
 
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
